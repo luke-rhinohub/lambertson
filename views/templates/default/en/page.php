@@ -1299,7 +1299,7 @@
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
 					<img src="<?=base_url()?>images/standard-products-build.jpg" class="o-home--products-image" alt="Restaurant Packages">
-					<h3 class="o-home--products-title transition">Restaurant Packages TEST</h3>
+					<h3 class="o-home--products-title transition">Restaurant Packages</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
 			</div>
@@ -1316,30 +1316,27 @@
 
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
-					<img src="<?=base_url()?>images/packages-feat.jpg" class="o-home--products-image" alt="Restaurant Packages">
-					<h3 class="o-home--products-title transition">Food Service</h3>
+					<img src="<?=base_url()?>images/packages-feat.jpg" class="o-home--products-image" alt="Food Service Products">
+					<h3 class="o-home--products-title transition">Food Service Products</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
 			</div>
 
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/custom" target="_self">
-					<img src="<?=base_url()?>images/custom-products-feat.jpg" class="o-home--products-image" alt="Custom Products">
-					<h3 class="o-home--products-title transition">Custom Products</h3>
+				<a href="<?=base_url()?>en/page/plumbing" target="_self">
+					<img src="<?=base_url()?>images/custom-products-feat.jpg" class="o-home--products-image" alt="Plumbing Products">
+					<h3 class="o-home--products-title transition">Plumbing Products</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/custom" class="button small">View Products</a>
+				<a href="<?=base_url()?>en/page/plumbing" class="button small">View Products</a>
 			</div>
 		</div>
 
 		<!-- Video Highlight Section -->
 		<div id="video_home" class="rh-wrap">
-			<div class="col l6 m6 s12">
+			<div class="col l6 m6 s12 center">
 				<h2><span class="maroon line-1">Lambertson Craftsmanship.</span><br><span class="line-2">Products Built to Last.</span></h2>
 				<p>At Lambertson, we take pride in our people, our product, our company, and especially our partners -- you. We also believe there is a distinction between simply built vs. quality crafted products. Do business with us, and you'll see why we have been around for 50 years honing our craft, as well as how we will continue to lead the way in high-quality, American-made stainless steel manufactured products.</p>
 				<a href="<?=base_url()?>en/page/contact-us" class="button inverse" target="_self">Get In Touch</a>
-			</div>
-			<div class="col l6 m6 s12">
-				<iframe width="530" height="305" src="https://www.youtube.com/embed/4dgp4JxrUik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 			</div>
 		</div>
 
