@@ -1297,11 +1297,11 @@
 		<!-- 4 Wide CTAs -->
 		<div id="products" class="full">
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/products" target="_self">
-					<img src="<?=base_url()?>images/standard-products-build.jpg" class="o-home--products-image" alt="Standard Products">
-					<h3 class="o-home--products-title transition">Standard Products</h3>
+				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
+					<img src="<?=base_url()?>images/standard-products-build.jpg" class="o-home--products-image" alt="Restaurant Packages">
+					<h3 class="o-home--products-title transition">Restaurant Packages TEST</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/products" class="button small">View Products</a>
+				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
 			</div>
 			
 			<div class="c-home--products-item col l3 m6 s12">
@@ -1317,7 +1317,7 @@
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
 					<img src="<?=base_url()?>images/packages-feat.jpg" class="o-home--products-image" alt="Restaurant Packages">
-					<h3 class="o-home--products-title transition">Restaurant Packages</h3>
+					<h3 class="o-home--products-title transition">Food Service</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
 			</div>
