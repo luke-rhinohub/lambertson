@@ -124,25 +124,19 @@ header("Content-type: text/html; charset=iso-8859-1");
 						<li class="separator">|</li>
 						<li>
 							<a href="http://www.lambertson.rhinohubdev.com/en/page/about-us">About Us</a>
-							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/news">News</a></li>
-							</ul>
 						</li>
 						<li class="separator">|</li>
 						<li>
 							<a href="http://www.lambertson.rhinohubdev.com/products">Products</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/#one-compartment-sinks">One Compartment Sinks</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/#two-compartment-sinks">Two Compartment Sinks</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/#three-compartment-sinks">Three Compartment Sinks</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/#four-compartment-sinks">Four Compartment Sinks</a></li>
 							</ul>
 						</li>
-						<li class="separator">|</li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/custom">Custom</a></li>
 						<li class="separator">|</li>
 						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/restaurant-packages">Restaurant Packages</a>
 							<ul class="submenu">
