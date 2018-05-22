@@ -1315,11 +1315,11 @@
 			<div class="clear"></div>
 
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
+				<a href="<?=base_url()?>en/page/food-service" target="_self">
 					<img src="<?=base_url()?>images/food-service-feat-md.jpg" class="o-home--products-image" alt="Food Service Products">
 					<h3 class="o-home--products-title transition">Food Service Products</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
+				<a href="<?=base_url()?>en/page/food-service" class="button small">View Products</a>
 			</div>
 
 			<div class="c-home--products-item col l3 m6 s12">

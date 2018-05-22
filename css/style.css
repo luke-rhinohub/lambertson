@@ -2553,6 +2553,7 @@ p.hero_content {
 }
 .c-home--products-item .o-home--products-image {
 	width:100%;
+	box-shadow:1px 1px 10px rgba(0,0,0,.4);
 	-webkit-backface-visibility: hidden;
 	-webkit-transition:.5s ease-in-out all;
 	-o-transition:.5s ease-in-out all;
@@ -2857,7 +2858,7 @@ h3.o-cat--title {
 	padding:1em 0
 }
 .c-home--products-item.col {
-	padding:0
+	padding:0 30px;
 }
 .o-services--title-bar {
 	font-family:'Open Sans Condensed';
