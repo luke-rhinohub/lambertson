@@ -1316,7 +1316,7 @@
 
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
-					<img src="<?=base_url()?>images/packages-feat.jpg" class="o-home--products-image" alt="Food Service Products">
+					<img src="<?=base_url()?>images/food-service-feat-md.jpg" class="o-home--products-image" alt="Food Service Products">
 					<h3 class="o-home--products-title transition">Food Service Products</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
@@ -1324,10 +1324,35 @@
 
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/plumbing" target="_self">
-					<img src="<?=base_url()?>images/custom-products-feat.jpg" class="o-home--products-image" alt="Plumbing Products">
+					<img src="<?=base_url()?>images/plumbing-products-featured.jpg" class="o-home--products-image" alt="Plumbing Products">
 					<h3 class="o-home--products-title transition">Plumbing Products</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/plumbing" class="button small">View Products</a>
+			</div>
+		</div>
+
+		<!-- Certifications -->
+		<div id="certs_home" class="rh-wrap">
+			<div class="c-cert col l3 m6 s12">
+				<img src="<?=base_url()?>images/made-in-usa.svg" class="o-cert transition" alt="Made in the USA">
+			</div>
+			<div class="c-cert col l3 m6 s12">
+				<img src="<?=base_url()?>images/nsf-cert.svg" class="o-cert transition" alt="NSF Certified">
+			</div>
+			<div class="c-cert col l3 m6 s12">
+				<img src="<?=base_url()?>images/ul-cert.svg" class="o-cert transition" alt="UL Plumbing Certification">
+			</div>
+			<div class="c-cert col l3 m6 s12">
+				<img src="<?=base_url()?>images/nfpa-cert.svg" class="o-cert transition" alt="NFPCA Code 96 Certification">
+			</div>
+		</div>
+
+		<!-- Video Highlight Section -->
+		<div id="video_home" class="rh-wrap">
+			<div class="col l6 m6 s12 center">
+				<h2><span class="maroon line-1">Lambertson Craftsmanship.</span><br><span class="line-2">Products Built to Last.</span></h2>
+				<p>At Lambertson, we take pride in our people, our product, our company, and especially our partners -- you. We also believe there is a distinction between simply built vs. quality crafted products. Do business with us, and you'll see why we have been around for 50 years honing our craft, as well as how we will continue to lead the way in high-quality, American-made stainless steel manufactured products.</p>
+				<a href="<?=base_url()?>en/page/contact-us" class="button inverse" target="_self">Get In Touch</a>
 			</div>
 		</div>
 
@@ -1349,31 +1374,6 @@
 			      <div class="slide"><a href="https://www.venetian.com" target="_blank"><img src="<?=base_url()?>images/clients/venetian.jpg" alt="venetian logo"></a></div>
 			      <div class="slide"><a href="http://www.goblueteam.com/" target="_blank"><img src="<?=base_url()?>images/clients/western-nevada-supply.jpg" alt="western nevada supply logo"></a></div>
 			   </section>
-			</div>
-		</div>
-
-		<!-- Video Highlight Section -->
-		<div id="video_home" class="rh-wrap">
-			<div class="col l6 m6 s12 center">
-				<h2><span class="maroon line-1">Lambertson Craftsmanship.</span><br><span class="line-2">Products Built to Last.</span></h2>
-				<p>At Lambertson, we take pride in our people, our product, our company, and especially our partners -- you. We also believe there is a distinction between simply built vs. quality crafted products. Do business with us, and you'll see why we have been around for 50 years honing our craft, as well as how we will continue to lead the way in high-quality, American-made stainless steel manufactured products.</p>
-				<a href="<?=base_url()?>en/page/contact-us" class="button inverse" target="_self">Get In Touch</a>
-			</div>
-		</div>
-
-		<!-- Certifications -->
-		<div id="certs_home" class="rh-wrap">
-			<div class="c-cert col l3 m6 s12">
-				<img src="<?=base_url()?>images/made-in-usa.svg" class="o-cert transition" alt="Made in the USA">
-			</div>
-			<div class="c-cert col l3 m6 s12">
-				<img src="<?=base_url()?>images/nsf-cert.svg" class="o-cert transition" alt="NSF Certified">
-			</div>
-			<div class="c-cert col l3 m6 s12">
-				<img src="<?=base_url()?>images/ul-cert.svg" class="o-cert transition" alt="UL Plumbing Certification">
-			</div>
-			<div class="c-cert col l3 m6 s12">
-				<img src="<?=base_url()?>images/nfpa-cert.svg" class="o-cert transition" alt="NFPCA Code 96 Certification">
 			</div>
 		</div>
 
