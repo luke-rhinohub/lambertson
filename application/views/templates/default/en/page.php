@@ -1298,7 +1298,7 @@
 		<div id="products" class="full">
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
-					<img src="<?=base_url()?>images/standard-products-build.jpg" class="o-home--products-image" alt="Restaurant Packages">
+					<img src="<?=base_url()?>images/restaurant-packages-featured.jpg" class="o-home--products-image" alt="Restaurant Packages">
 					<h3 class="o-home--products-title transition">Restaurant Packages</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/restaurant-packages" class="button small">View Products</a>
@@ -1331,6 +1331,27 @@
 			</div>
 		</div>
 
+		<!-- Clients Carousel -->
+		<div id="clients_home" class="full">
+			<div class="container">
+			   <section class="customer-logos slider">
+			      <div class="slide"><a href="https://www.ferguson.com/" target="_blank"><img src="<?=base_url()?>images/clients/ferguson.jpg" alt="ferguson logo"></a></div>
+			      <div class="slide"><a href="https://www.hajoca.com/" target="_blank"><img src="<?=base_url()?>images/clients/hajoca.jpg" alt="hajoca logo"></a></div>
+			      <div class="slide"><a href="https://www.haldemaninc.com/" target="_blank"><img src="<?=base_url()?>images/clients/Haldeman.jpg" alt="haldeman logo"></a></div>
+			      <div class="slide"><a href="http://www.lobsterme.com/" target="_blank"><img src="<?=base_url()?>images/clients/lobster-me.jpg" alt="lobster me logo"></a></div>
+			      <div class="slide"><a href="https://mellowmushroom.com/" target="_blank"><img src="<?=base_url()?>images/clients/mellow-mushroom.jpg" alt="mellow mushroom logo"></a></div>
+			      <div class="slide"><a href="http://www.pacesupply.com/" target="_blank"><img src="<?=base_url()?>images/clients/pacesupply.jpg" alt="pace supply logo"></a></div>
+			      <div class="slide"><a href="http://parisbaguette.com/" target="_blank"><img src="<?=base_url()?>images/clients/paris-baguette.jpg" alt="paris baguette logo"></a></div>
+			      <div class="slide"><a href="https://www.petesfresh.com/" target="_blank"><img src="<?=base_url()?>images/clients/petes-fresh-market.jpg" alt="petes fresh market logo"></a></div>
+			      <div class="slide"><a href="https://www.shakeshack.com/" target="_blank"><img src="<?=base_url()?>images/clients/shake-shack.jpg" alt="shake shack logo"></a></div>
+			      <div class="slide"><a href="https://topgolf.com/us/" target="_blank"><img src="<?=base_url()?>images/clients/top-golf.jpg" alt="top golf logo"></a></div>
+			      <div class="slide"><a href="http://www.trimarkusa.com/" target="_blank"><img src="<?=base_url()?>images/clients/TriMark.jpg" alt="TriMark logo"></a></div>
+			      <div class="slide"><a href="https://www.venetian.com" target="_blank"><img src="<?=base_url()?>images/clients/venetian.jpg" alt="venetian logo"></a></div>
+			      <div class="slide"><a href="http://www.goblueteam.com/" target="_blank"><img src="<?=base_url()?>images/clients/western-nevada-supply.jpg" alt="western nevada supply logo"></a></div>
+			   </section>
+			</div>
+		</div>
+
 		<!-- Video Highlight Section -->
 		<div id="video_home" class="rh-wrap">
 			<div class="col l6 m6 s12 center">
@@ -1357,7 +1378,7 @@
 		</div>
 
 		<!-- 3 Wide CTA -->
-		<div id="categories_home" class="full no-max">
+		<!-- <div id="categories_home" class="full no-max">
 			<div class="c-category_home col l4 m12 s12" style="background-image:url('<?=base_url()?>images/food-service-feat-md.jpg');background-position: center center; background-size:cover;">
 				<div class="overlay"></div>
 				<div class="c-category_home-inner">
@@ -1382,30 +1403,7 @@
 					<a href="<?=base_url()?>en/page/plumbing" class="button">Learn More</a>
 				</div>
 			</div>
-		</div>
-
-		<!-- Clients Carousel -->
-		<div id="clients_home" class="full">
-			
-			<div class="container">
-			   <section class="customer-logos slider">
-			      <div class="slide"><a href="https://www.ferguson.com/" target="_blank"><img src="<?=base_url()?>images/clients/ferguson.jpg" alt="ferguson logo"></a></div>
-			      <div class="slide"><a href="https://www.hajoca.com/" target="_blank"><img src="<?=base_url()?>images/clients/hajoca.jpg" alt="hajoca logo"></a></div>
-			      <div class="slide"><a href="https://www.haldemaninc.com/" target="_blank"><img src="<?=base_url()?>images/clients/Haldeman.jpg" alt="haldeman logo"></a></div>
-			      <div class="slide"><a href="http://www.lobsterme.com/" target="_blank"><img src="<?=base_url()?>images/clients/lobster-me.jpg" alt="lobster me logo"></a></div>
-			      <div class="slide"><a href="https://mellowmushroom.com/" target="_blank"><img src="<?=base_url()?>images/clients/mellow-mushroom.jpg" alt="mellow mushroom logo"></a></div>
-			      <div class="slide"><a href="http://www.pacesupply.com/" target="_blank"><img src="<?=base_url()?>images/clients/pacesupply.jpg" alt="pace supply logo"></a></div>
-			      <div class="slide"><a href="http://parisbaguette.com/" target="_blank"><img src="<?=base_url()?>images/clients/paris-baguette.jpg" alt="paris baguette logo"></a></div>
-			      <div class="slide"><a href="https://www.petesfresh.com/" target="_blank"><img src="<?=base_url()?>images/clients/petes-fresh-market.jpg" alt="petes fresh market logo"></a></div>
-			      <div class="slide"><a href="https://www.shakeshack.com/" target="_blank"><img src="<?=base_url()?>images/clients/shake-shack.jpg" alt="shake shack logo"></a></div>
-			      <div class="slide"><a href="https://topgolf.com/us/" target="_blank"><img src="<?=base_url()?>images/clients/top-golf.jpg" alt="top golf logo"></a></div>
-			      <div class="slide"><a href="http://www.trimarkusa.com/" target="_blank"><img src="<?=base_url()?>images/clients/TriMark.jpg" alt="TriMark logo"></a></div>
-			      <div class="slide"><a href="https://www.venetian.com" target="_blank"><img src="<?=base_url()?>images/clients/venetian.jpg" alt="venetian logo"></a></div>
-			      <div class="slide"><a href="http://www.goblueteam.com/" target="_blank"><img src="<?=base_url()?>images/clients/western-nevada-supply.jpg" alt="western nevada supply logo"></a></div>
-			   </section>
-			</div>
-
-		</div> 
+		</div>  -->
 
 	</div>
 
