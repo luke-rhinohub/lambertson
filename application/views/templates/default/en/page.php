@@ -1306,7 +1306,7 @@
 			
 			<div class="c-home--products-item col l3 m6 s12">
 				<a href="<?=base_url()?>en/page/hood-systems" target="_self">
-					<img src="<?=base_url()?>images/hoods-systems-temp-featured.jpg" class="o-home--products-image" alt="Hood Systems">
+					<img src="<?=base_url()?>images/hood-systems-temp-featured.jpg" class="o-home--products-image" alt="Hood Systems">
 					<h3 class="o-home--products-title transition">Hood Systems</h3>
 				</a>
 				<a href="<?=base_url()?>en/page/hood-systems" class="button small">View Products</a>
