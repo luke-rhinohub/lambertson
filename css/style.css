@@ -2419,6 +2419,10 @@ div#contact .text
 .l12 {
 	width:100%;
 }
+.col.center {
+	margin:0 auto;
+	float:none;
+}
 
 @media screen and (max-width:1000px) {
 	.m-mw70 {
