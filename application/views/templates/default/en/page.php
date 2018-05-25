@@ -1305,29 +1305,29 @@
 			</div>
 			
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/hood-systems" target="_self">
+				<a href="<?=base_url()?>products/hood-systems" target="_self">
 					<img src="<?=base_url()?>images/hood-systems-temp-featured.jpg" class="o-home--products-image" alt="Hood Systems">
 					<h3 class="o-home--products-title transition">Hood Systems</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/hood-systems" class="button small">View Products</a>
+				<a href="<?=base_url()?>products/hood-systems" class="button small">View Products</a>
 			</div>
 
 			<div class="clear"></div>
 
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/food-service" target="_self">
+				<a href="<?=base_url()?>products/food-service" target="_self">
 					<img src="<?=base_url()?>images/food-service-feat-md.jpg" class="o-home--products-image" alt="Food Service Products">
 					<h3 class="o-home--products-title transition">Food Service Products</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/food-service" class="button small">View Products</a>
+				<a href="<?=base_url()?>products/food-service" class="button small">View Products</a>
 			</div>
 
 			<div class="c-home--products-item col l3 m6 s12">
-				<a href="<?=base_url()?>en/page/plumbing" target="_self">
+				<a href="<?=base_url()?>products/plumbing" target="_self">
 					<img src="<?=base_url()?>images/plumbing-products-featured.jpg" class="o-home--products-image" alt="Plumbing Products">
 					<h3 class="o-home--products-title transition">Plumbing Products</h3>
 				</a>
-				<a href="<?=base_url()?>en/page/plumbing" class="button small">View Products</a>
+				<a href="<?=base_url()?>products/plumbing" class="button small">View Products</a>
 			</div>
 		</div>
 
