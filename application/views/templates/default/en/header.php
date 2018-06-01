@@ -129,11 +129,11 @@ header("Content-type: text/html; charset=iso-8859-1");
 						<li>
 							<a href="http://www.lambertson.rhinohubdev.com/products">Products</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
 								<li class="separator"></li>
 								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
 								<li class="separator"></li>
 							</ul>
 						</li>
