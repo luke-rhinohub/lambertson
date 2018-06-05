@@ -1937,7 +1937,7 @@
 								<td class="white">Product #</td>
 							</tr>
 							<tr>
-								<td><a href="<?=base_url()?>en/products/food-service/sinks/hand/39">Hand Sink</a></td>
+								<td>Hand Sink</td>
 								<td>HS-W-1410-2-F</td>
 							</tr>
 							<tr>
@@ -1967,7 +1967,7 @@
 			</div>
 			<div class="col l4 m6 s12">
 				<div class="o-package-product">
-					<a href="<?=base_url()?>en/products/food-service/sinks/hand/39" target="_blank">
+					<a href="<?=base_url()?>products/hand-sinks" target="_blank">
 						<img src="<?=base_url()?>images/packages-a-hand-sink.jpg" alt="Hand Sink">
 						<p class="o-package-product--title center mb0">Hand Sink</p>
 					</a>
@@ -1975,8 +1975,10 @@
 			</div>
 			<div class="col l4 m6 s12">
 				<div class="o-package-product">
-					<img src="<?=base_url()?>images/packages-a-wall-shelf.jpg" alt="Wall Shelf">
-					<p class="o-package-product--title center mb0">Wall Shelf</p>
+					<a href="<?=base_url()?>products/wall-shelves" target="_blank">
+						<img src="<?=base_url()?>images/packages-a-wall-shelf.jpg" alt="Wall Shelf">
+						<p class="o-package-product--title center mb0">Wall Shelf</p>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -1997,11 +1999,11 @@
 								<td class="white">Product #</td>
 							</tr>
 							<tr>
-								<td><a href="<?=base_url()?>en/products/food-service/sinks/compartment/40">1 Compartment Sink</a></td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-1620</td>
 							</tr>
 							<tr>
-								<td><a href="<?=base_url()?>en/products/food-service/sinks/compartment/40">1 Compartment Sink</a></td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24</td>
 							</tr>
 							<tr>
@@ -2037,7 +2039,7 @@
 								<td>DTS-S-3072</td>
 							</tr>
 							<tr>
-								<td><a href="<?=base_url()?>en/products/food-service/sinks/mop/41">Mop Sink</a></td>
+								<td>Mop Sink</td>
 								<td>MS-1620-12-16</td>
 							</tr>
 						</tbody>
@@ -2048,7 +2050,7 @@
 			<div class="col l8 m12 s12">
 				<div class="col l4 m4 s12">
 					<div class="o-package-product">
-						<a href="<?=base_url()?>en/products/food-service/sinks/compartment/40" target="_blank">
+						<a href="<?=base_url()?>products/compartment-sinks/#one-compartment-sinks" target="_blank">
 							<img src="<?=base_url()?>images/packages-b-one-compartment-sink.jpg" alt="1 Compartment Sink">
 							<p class="o-package-product--title center mb0">1 Compartment Sink</p>
 						</a>
@@ -2056,13 +2058,15 @@
 				</div>
 				<div class="col l4 m4 s12">
 					<div class="o-package-product">
-						<img src="<?=base_url()?>images/packages-b-clean-soiled-dish-table.jpg" alt="Soiled & Clean Dish Table">
-						<p class="o-package-product--title center mb0">Soiled &amp; Clean Dish Table</p>
+						<a href="<?=base_url()?>products/#tables" target="_blank">
+							<img src="<?=base_url()?>images/packages-b-clean-soiled-dish-table.jpg" alt="Soiled & Clean Dish Table">
+							<p class="o-package-product--title center mb0">Soiled &amp; Clean Dish Table</p>
+						</a>
 					</div>
 				</div>
 				<div class="col l4 m4 s12">
 					<div class="o-package-product">
-						<a href="<?=base_url()?>en/products/food-service/sinks/mop/41" target="_blank">
+						<a href="<?=base_url()?>products/mop-sinks" target="_blank">
 							<img src="<?=base_url()?>images/packages-b-mop-sink.jpg" alt="Mop Sink">
 							<p class="o-package-product--title center mb0">Mop Sink</p>
 						</a>
@@ -2096,15 +2100,15 @@
 							<td class="white">Product #</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/tables/standard/81">Work Table</a></td>
+							<td>Work Table</td>
 							<td>WTSQ-BSU-3048</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/tables/standard/81">Work Table</a></td>
+							<td>Work Table</td>
 							<td>WTSQ-BSU-3060</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/tables/standard/81">Work Table</a></td>
+							<td>Work Table</td>
 							<td>WTSQ-BSU-3072</td>
 						</tr>
 					</tbody>
@@ -2112,7 +2116,7 @@
 			</div>
 			<div class="col l8 m12 s12">
 				<div class="o-package-product">
-					<a href="<?=base_url()?>en/products/food-service/tables/standard/81" target="_blank">
+					<a href="<?=base_url()?>products/work-tables" target="_blank">
 						<img src="<?=base_url()?>images/packages-c-work-table.jpg" alt="Work Table">
 						<p class="o-package-product--title center mb0">Work Table</p>
 					</a>
@@ -2149,15 +2153,15 @@
 							<td>WTSQ-PT-3072</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/sinks/compartment/40">2 Compartment Sink</a></td>
+							<td>2 Compartment Sink</td>
 							<td>QL-2-1620-218-F</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/sinks/compartment/40">3 Compartment Sink</a></td>
+							<td>3 Compartment Sink</td>
 							<td>QL-3-1620-218-F</td>
 						</tr>
 						<tr>
-							<td><a href="<?=base_url()?>en/products/food-service/sinks/compartment/40">3 Compartment Sink</a></td>
+							<td>3 Compartment Sink</td>
 							<td>QL-3-24-224-F</td>
 						</tr>
 					</tbody>
@@ -2165,17 +2169,19 @@
 			</div>
 			<div class="col l8 m12 s12">
 				<div class="col l4 m4 s12 o-package-product">
-					<img src="<?=base_url()?>images/packages-e-prep-table.jpg" alt="Prep Table">
-					<p class="o-package-product--title center mb0">Prep Table</p>
+					<a href="<?=base_url()?>products/prep-tables" target="_blank">
+						<img src="<?=base_url()?>images/packages-e-prep-table.jpg" alt="Prep Table">
+						<p class="o-package-product--title center mb0">Prep Table</p>
+					</a>
 				</div>
 				<div class="col l4 m4 s12 o-package-product">
-					<a href="<?=base_url()?>en/products/food-service/sinks/compartment/40" target="_blank">
+					<a href="<?=base_url()?>products/compartment-sinks/#two-compartment-sinks" target="_blank">
 						<img src="<?=base_url()?>images/contenu/product_categories/images/3db804daa27c86ff9531c40eeac045d5.png" alt="2 Compartment Sink">
 						<p class="o-package-product--title center mb0">2 Compartment Sink</p>
 					</a>
 				</div>
 				<div class="col l4 m4 s12 o-package-product">
-					<a href="<?=base_url()?>en/products/food-service/sinks/compartment/40" target="_blank">
+					<a href="<?=base_url()?>products/compartment-sinks/#three-compartment-sinks" target="_blank">
 						<img src="<?=base_url()?>images/packages-d-three-compartment-sink.jpg" alt="3 Compartment Sink">
 						<p class="o-package-product--title center mb0">3 Compartment Sink</p>
 					</a>
@@ -2225,8 +2231,10 @@
 			</div>
 			<div class="col l8 m12 s12">
 				<div class="o-package-product">
-					<img src="<?=base_url()?>images/packages-e-cabinet.jpg" alt="Cabinet">
-					<p class="o-package-product--title center mb0">Cabinet</p>
+					<a href="<?=base_url()?>products/cabinets" target="_blank">
+						<img src="<?=base_url()?>images/packages-e-cabinet.jpg" alt="Cabinet">
+						<p class="o-package-product--title center mb0">Cabinet</p>
+					</a>
 				</div>
 			</div>
 		</div>
