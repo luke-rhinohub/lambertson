@@ -2318,6 +2318,9 @@
 					<p><strong>We take pride in each and every detail to ensure that you're getting products that you can rely on and that will last.</strong></p>
 				</div>
 			</div>
+			<div class="video_wrapper">
+				<iframe src="https://www.youtube.com/embed/4dgp4JxrUik?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
 			<div class="c-history thick-border">
 				<h2 class="mt0">History</h2>
 				<p>Lambertson Industries was founded over 50 years ago by Theodore Lambertson. The company quickly became recognized as an industry leader through its vision and forward thinking. With a hands-on approach to customer needs and followed through with product quality, consistency, and service. Lambertson Industries grew to a multi-million dollars business recognized for 100% American made stainless steel products.</p>
