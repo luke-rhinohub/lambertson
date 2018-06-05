@@ -134,7 +134,6 @@ header("Content-type: text/html; charset=iso-8859-1");
 								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
 								<li class="separator"></li>
 								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
-								<li class="separator"></li>
 							</ul>
 						</li>
 						<li class="separator">|</li>
@@ -202,7 +201,7 @@ header("Content-type: text/html; charset=iso-8859-1");
 				<a href="#" id="show-menu"><i class="fas fa-bars"></i></a>
 				<a href="<?=base_url()?>en"><img src="<?=base_url()?>images/logo.png" alt="Logo Lambertson" class="logo"></a>
 				<!--<a href="<?=base_url()?>fr/<?=$url_fr?>" id="menu_language">Fran&ccedil;ais</a>		-->	
-				<ul>	
+				<!-- <ul>	
 						<?if(isset($pages)) :
 						$need_close_submenu = 0;		
 						foreach ($pages as $key => $p) :
@@ -241,6 +240,28 @@ header("Content-type: text/html; charset=iso-8859-1");
 						<?endif;?>
 						</li>
 					<?endif;?>						
-				</ul>
+				</ul> -->
+
+				<ul>
+						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/home">Home</a></li>
+						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/about-us">About Us</a></li>
+						<li>
+							<a href="http://www.lambertson.rhinohubdev.com/products">Products</a>
+							<ul class="submenu">
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
+							</ul>
+						</li>
+						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/restaurant-packages">Restaurant Packages</a>
+							<ul class="submenu">
+								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-essentials-package">The Essentials Package</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-perfect-package">The Perfect Package</a></li>
+								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-master-package">The Master Package</a></li>
+							</ul>
+						</li>
+						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/contact-us">Contact us</a></li>
+					</ul>
+
 			</div>
 		</div>
