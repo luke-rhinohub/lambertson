@@ -1385,7 +1385,7 @@
 				<div class="c-category_home-inner">
 					<h3 class="o-cat--title">Food Service</h3>
 					<p class="o-cat-description">Much like a chef takes pride in the cuisine served to his customers, we're all about quality goods and consistent performance. We handcraft each of our food service products such as stainless steel prep tables, storage shelves, and cabinets, for the lifetime of your restaurant.</p>
-					<a href="<?=base_url()?>en/page/food-service" class="button">Learn More</a>
+					<a href="<?=base_url()?>products/food-service" class="button">Learn More</a>
 				</div>
 			</div>
 			<div class="c-category_home col l4 m12 s12" style="background-image:url('<?=base_url()?>images/hood-temp-bg.jpg');background-position: center center; background-size:cover;">
@@ -1393,7 +1393,7 @@
 				<div class="c-category_home-inner">
 					<h3 class="o-cat--title">Hood Systems</h3>
 					<p class="o-cat-description">No one likes a smoky kitchen. With our complete hood ventilation system, you're free to cook, fry, flame-broil, and much more to your heart's content. We'll craft a hood system made right the first time to get the job done.</p>
-					<a href="<?=base_url()?>en/page/hood-systems" class="button">Learn More</a>
+					<a href="<?=base_url()?>products/hood-systems" class="button">Learn More</a>
 				</div>
 			</div>
 			<div class="c-category_home col l4 m12 s12" style="background-image:url('<?=base_url()?>images/plumbing-med-feat.jpg');background-position: center center; background-size:cover;">
@@ -1401,7 +1401,7 @@
 				<div class="c-category_home-inner">
 					<h3 class="o-cat--title">Plumbing</h3>
 					<p class="o-cat-description">Our plumbing products are skillfully crafted with high-quality materials coupled with welding done to meticulous perfection -- all made in-house at our manufacturing facility. We carry a wide range of 3/4/5 multi-user compartment sinks.</p>
-					<a href="<?=base_url()?>en/page/plumbing" class="button">Learn More</a>
+					<a href="<?=base_url()?>products/plumbing" class="button">Learn More</a>
 				</div>
 			</div>
 		</div>  -->
@@ -1654,11 +1654,11 @@
 		<div class="c-home--products-item col l4 m12">
 			
 			<?if($page["page_id"] == 29): // Standard Products ?>
-			<a href="<?=base_url()?>en/page/food-service" target="_self">
+			<a href="<?=base_url()?>products/food-service" target="_self">
 				<img src="<?=base_url()?>images/food-service-feat-md-int.jpg" class="o-home--products-image" alt="Food Service">
 				<h3 class="o-home--products-title transition">Food Service</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/food-service" class="button">View Products</a>
+			<a href="<?=base_url()?>products/food-service" class="button">View Products</a>
 
 			<?elseif($page["page_id"] == 30 || $page["page_id"] == 31 || $page["page_id"] == 33): // Food Service, Hood Systems, Plumbing ?>
 			<a href="<?=base_url()?>en/page/restaurant-packages" target="_self">
@@ -1674,18 +1674,18 @@
 		<div class="c-home--products-item col l4 m12">
 			
 			<?if($page["page_id"] == 29 || $page["page_id"] == 30): // Standard Products & Food Service ?>
-			<a href="<?=base_url()?>en/page/hood-systems" target="_self">
+			<a href="<?=base_url()?>products/hood-systems" target="_self">
 				<img src="<?=base_url()?>images/hood-systems-feat-md.jpg" class="o-home--products-image" alt="Hood Systems">
 				<h3 class="o-home--products-title transition">Hood Systems</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/hood-systems" class="button">View Products</a>
+			<a href="<?=base_url()?>products/hood-systems" class="button">View Products</a>
 
 			<?elseif($page["page_id"] == 31 || $page["page_id"] == 33): // Hood Systems, Plumbing ?>
-			<a href="<?=base_url()?>en/page/food-service" target="_self">
+			<a href="<?=base_url()?>products/food-service" target="_self">
 				<img src="<?=base_url()?>images/food-service-feat-md-int.jpg" class="o-home--products-image" alt="Food Service">
 				<h3 class="o-home--products-title transition">Food Service</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/food-service" class="button">View Products</a>
+			<a href="<?=base_url()?>products/food-service" class="button">View Products</a>
 
 			<?endif;?>
 
@@ -1694,18 +1694,18 @@
 		<div class="c-home--products-item col l4 m12">
 
 			<?if($page["page_id"] == 29 || $page["page_id"] == 30 || $page["page_id"] == 31): // Standard Products, Food Service. & Hood Systems ?>
-			<a href="<?=base_url()?>en/page/plumbing" target="_self">
+			<a href="<?=base_url()?>products/plumbing" target="_self">
 				<img src="<?=base_url()?>images/plumbing-feat-md.jpg" class="o-home--products-image" alt="Plumbing">
 				<h3 class="o-home--products-title transition">Plumbing</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/plumbing" class="button">View Products</a>
+			<a href="<?=base_url()?>products/plumbing" class="button">View Products</a>
 
 			<?elseif($page["page_id"] == 33): // Hood Systems, Plumbing ?>
-			<a href="<?=base_url()?>en/page/hood-systems" target="_self">
+			<a href="<?=base_url()?>products/hood-systems" target="_self">
 				<img src="<?=base_url()?>images/hood-systems-feat-md.jpg" class="o-home--products-image" alt="Hood Systems">
 				<h3 class="o-home--products-title transition">Hood Systems</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/hood-systems" class="button">View Products</a>
+			<a href="<?=base_url()?>products/hood-systems" class="button">View Products</a>
 
 			<?endif;?>
 
@@ -2282,25 +2282,25 @@
 	</div>
 	<div id="products" class="full no-max">
 		<div class="c-home--products-item col l4 m12 mt0">
-			<a href="<?=base_url()?>en/page/food-service" target="_self">
+			<a href="<?=base_url()?>products/food-service" target="_self">
 				<img src="<?=base_url()?>images/food-service-feat-md-int.jpg" class="o-home--products-image" alt="Food Service">
 				<h3 class="o-home--products-title transition">Food Service</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/food-service" class="button">View Products</a>
+			<a href="<?=base_url()?>products/food-service" class="button">View Products</a>
 		</div>
 		<div class="c-home--products-item col l4 m12">
-			<a href="<?=base_url()?>en/page/hood-systems" target="_self">
+			<a href="<?=base_url()?>products/hood-systems" target="_self">
 				<img src="<?=base_url()?>images/hood-systems-feat-md.jpg" class="o-home--products-image" alt="Hood Systems">
 				<h3 class="o-home--products-title transition">Hood Systems</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/hood-systems" class="button">View Products</a>
+			<a href="<?=base_url()?>products/hood-systems" class="button">View Products</a>
 		</div>
 		<div class="c-home--products-item col l4 m12">
-			<a href="<?=base_url()?>en/page/plumbing" target="_self">
+			<a href="<?=base_url()?>products/plumbing" target="_self">
 				<img src="<?=base_url()?>images/plumbing-feat-md.jpg" class="o-home--products-image" alt="Plumbing">
 				<h3 class="o-home--products-title transition">Plumbing</h3>
 			</a>
-			<a href="<?=base_url()?>en/page/plumbing" class="button">View Products</a>
+			<a href="<?=base_url()?>products/plumbing" class="button">View Products</a>
 		</div>
 	</div>
 
