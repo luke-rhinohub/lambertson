@@ -4,7 +4,29 @@ header("Content-type: text/html; charset=iso-8859-1");
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" id="page-id-<?echo $page["page_id"]?>">
 	<head>
-		<title><?=(@$page['title_en'] != "" ? utf8_decode($page['title_en'])." | " : "")?>Lambertson</title>
+
+		<!-- Meta Information -->
+		<?if($page["page_id"] == 4) : // Home Page ?>
+			<title>Stainless Steel Commercial Kitchen Equipment Manufacturer | Lambertson</title>
+		<?elseif($page["page_id"] == 11) : //About Us ?>
+			<title>Commercial Kitchen Stainless Steel Manufacturer in the U.S.A. | Lambertson</title>
+		<?elseif($page["page_id"] == 34) : //Restaurant Packages ?>
+			<title>Commercial Kitchen Equipment Restaurant Packages for Sale | Lambertson</title>
+		<?elseif($page["page_id"] == 10) : //Contact Us ?>
+			<title>Contact Lambertson Your Commercial Kitchen Stainless Steel Equipment Manufacturer</title>
+		<?else :?>
+			<title><?=(@$page['title_en'] != "" ? utf8_decode($page['title_en'])." | " : "")?>Lambertson</title>
+		<?endif;?>
+
+		<? if($page["page_id"] == 4) : // Home Page ?>
+			<meta name="description" content="50 years of handcrafting custom & standard stainless steel products — stainless steel kitchen equipment, commercial hood systems, and plumbing equipment — for enterprising restaurateurs to commercial contractors. Built to last, every time. Call 1(800)548-3324.">
+		<?elseif($page["page_id"] == 11) : //About Us ?>
+			<meta name="description" content="Here at Lambertson Industries, we have perfected the craft of creating the highest quality American-made stainless steel kitchen products, period. We value quality craftsmanship and reputable customer service for our partners.">
+		<?elseif($page["page_id"] == 34) : //Restaurant Packages ?>
+			<meta name="description" content="Three preset commercial restaurant packages to fit your kitchen build out with the very best in stainless steel manufacturing. For the brand new small commercial kitchen to enterprising restaurant chains. See why we’ve been an industry leader for over 50 years.">
+		<?elseif($page["page_id"] == 10) : //Contact Us ?>
+			<meta name="description" content="Call 1(800)548-3324. A tried and true stainless steel manufacturer for industrial kitchen build outs for over 50 years. Proudly made 100% in the U.S.A.">
+		<?endif;?>
 
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -84,7 +106,7 @@ header("Content-type: text/html; charset=iso-8859-1");
 				src: url('../assets/fonts/hero-light.eot?#iefix') format('embedded-opentype');		 
 			}			
 		</style>
-		<![endif]--> 
+		<![endif]--> 	
 	</head>	
 	<body>
 
