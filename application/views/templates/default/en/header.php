@@ -142,34 +142,34 @@ header("Content-type: text/html; charset=iso-8859-1");
 				<a href="<?=base_url()?>en/page/home"><img src="<?=base_url()?>images/logo.png" alt="Logo Lambertson" class="logo"></a>
 				<div id="menu_onglets">	
 					<ul>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/home">Home</a></li>
+						<li><a href="<?=base_url()?>en/page/home">Home</a></li>
 						<li class="separator">|</li>
 						<li>
-							<a href="http://www.lambertson.rhinohubdev.com/en/page/about-us">About Us</a>
+							<a href="<?=base_url()?>en/page/about-us">About Us</a>
 						</li>
 						<li class="separator">|</li>
 						<li>
-							<a href="http://www.lambertson.rhinohubdev.com/products">Products</a>
+							<a href="<?=base_url()?>products">Products</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
+								<li><a href="<?=base_url()?>products/plumbing">Plumbing</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
+								<li><a href="<?=base_url()?>products/hood-systems">Hood Systems</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
+								<li><a href="<?=base_url()?>products/food-service">Food Service</a></li>
 							</ul>
 						</li>
 						<li class="separator">|</li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/restaurant-packages">Restaurant Packages</a>
+						<li><a href="<?=base_url()?>en/page/restaurant-packages">Restaurant Packages</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-essentials-package">The Essentials Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-essentials-package">The Essentials Package</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-perfect-package">The Perfect Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-perfect-package">The Perfect Package</a></li>
 								<li class="separator"></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-master-package">The Master Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-master-package">The Master Package</a></li>
 							</ul>
 						</li>
 						<li class="separator">|</li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/contact-us">Contact us</a></li>
+						<li><a href="<?=base_url()?>en/page/contact-us">Contact us</a></li>
 					</ul>
 					<!-- <ul>				
 						<?if(isset($pages)) :
@@ -265,24 +265,24 @@ header("Content-type: text/html; charset=iso-8859-1");
 				</ul> -->
 
 				<ul>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/home">Home</a></li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/about-us">About Us</a></li>
+						<li><a href="<?=base_url()?>en/page/home">Home</a></li>
+						<li><a href="<?=base_url()?>en/page/about-us">About Us</a></li>
 						<li>
-							<a href="http://www.lambertson.rhinohubdev.com/products">Products</a>
+							<a href="<?=base_url()?>products">Products</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/plumbing">Plumbing</a></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/hood-systems">Hood Systems</a></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/products/food-service">Food Service</a></li>
+								<li><a href="<?=base_url()?>products/plumbing">Plumbing</a></li>
+								<li><a href="<?=base_url()?>products/hood-systems">Hood Systems</a></li>
+								<li><a href="<?=base_url()?>products/food-service">Food Service</a></li>
 							</ul>
 						</li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/restaurant-packages">Restaurant Packages</a>
+						<li><a href="<?=base_url()?>en/page/restaurant-packages">Restaurant Packages</a>
 							<ul class="submenu">
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-essentials-package">The Essentials Package</a></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-perfect-package">The Perfect Package</a></li>
-								<li><a href="http://www.lambertson.rhinohubdev.com/en/page/the-master-package">The Master Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-essentials-package">The Essentials Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-perfect-package">The Perfect Package</a></li>
+								<li><a href="<?=base_url()?>en/page/the-master-package">The Master Package</a></li>
 							</ul>
 						</li>
-						<li><a href="http://www.lambertson.rhinohubdev.com/en/page/contact-us">Contact us</a></li>
+						<li><a href="<?=base_url()?>en/page/contact-us">Contact us</a></li>
 					</ul>
 
 			</div>
