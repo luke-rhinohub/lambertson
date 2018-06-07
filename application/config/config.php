@@ -11,8 +11,8 @@
 |	http://example.com/
 |
 */
-// $config['base_url']	= "http://www.lambertson.com/";
-$config['base_url']	= "http://www.lambertson.rhinohubdev.com/";
+// $config['base_url']	= "http://www.lambertson.com/"; // Production
+$config['base_url']	= "http://www.lambertson.rhinohubdev.com/"; // Development
 
 /*
 |--------------------------------------------------------------------------
