@@ -2964,6 +2964,7 @@ div#footer .c-copyright a {
 	text-decoration:none;
 }
 .footer-logo {
+	margin-top:20px;
 	width: 300px;
 }
 #footer h3 {
