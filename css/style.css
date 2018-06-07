@@ -1527,81 +1527,10 @@ div#page_products .wrap > div > .left .menu_icon_product
     background:#111;
     position:absolute;
     z-index:100;
-
-
     padding:0 15px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	border-radius:4px;
 } 
 #tooltip:after /* triangle decoration */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
 	width:0;
 	height:0;
@@ -1624,20 +1553,15 @@ div#page_products .wrap > div > .left .menu_icon_product
 
 }
 #tooltip.left:after
-
 {
 	left: 10px;
 	margin:0;
 }
 #tooltip.right:after
-
 {
 	right:10px;
 	left:auto;
 	margin:0;
-
-
-
 }
 #page_products .no-result
 {
@@ -3072,7 +2996,15 @@ div#footer .c-copyright a {
 #footer .c-copyright .rh-wrap {
 	text-align:center;
 }
-
+.c-footer-davinci {
+	margin-top:10px
+}
+.c-footer-davinci span {
+	display:block;
+	color:#fff;
+	font-size:20px;
+	padding-left:7px;
+}
 
 /** Responsive **/
 

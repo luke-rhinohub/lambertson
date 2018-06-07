@@ -9,6 +9,10 @@
 							<a href="https://www.linkedin.com/company/lambertson-industries" target="_blank"><img src="<?=base_url()?>images/linkedin-icon.svg" alt="linkedin icon" class="o-footer-social"></a>
 							<a href="https://www.facebook.com/lambertsonindustries/" target="_blank"><img src="<?=base_url()?>images/facebook-icon.svg" alt="facebook icon" class="o-footer-social"></a>
 						</div>
+						<div class="c-footer-davinci">
+							<span>A DIVISION OF</span>
+							<img src="/images/division_davinci_logo.png" alt="A division of Davinci Compass Group">
+						</div>
 					</div>
 					<div class="col l4 m4 s12">
 						<h3 class="gray">THE LAMBERTSON DIFFERENCE</h3>
