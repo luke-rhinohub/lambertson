@@ -414,7 +414,7 @@
 			<div class="right">
 				<div class="title">About Lambertson</div>
 				<div class="text">
-					Lambertson Industries was founded over 50 years ago by Theodore Lambertson. The company quickly became recognized as an industry leader through its vision and forward thinking. With a hands-on approach to customer needs and followed through with product quality, consistency, and service. Lambertson Industries grew to a multi-million dollars business recognized for 100% American made stainless steel products.
+					Lambertson was founded over 50 years ago by Theodore Lambertson. The company quickly became recognized as an industry leader through its vision and forward thinking. With a hands-on approach to customer needs and followed through with product quality, consistency, and service. Lambertson grew to a multi-million dollars business recognized for 100% American made stainless steel products.
 				</div>					
 				<div class="more"><a href="<?=base_url();?>en/page/about-us">Read more about our company</a></div>
 			</div>			
@@ -1935,10 +1935,12 @@
 							<tr class="c-product-category--subtitle">
 								<td class="white">Description</td>
 								<td class="white">Product #</td>
+								<td class="white">Spec Sheet</td>
 							</tr>
 							<tr>
 								<td>Hand Sink</td>
 								<td>HS-W-1410-2-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/HS-W-1410-2-F.PDF">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
@@ -2322,7 +2324,7 @@
 				</h2>
 				<div class="min-content-width center">
 					<p><strong>There is a clear difference between products that are simply <em>built</em> and those that are <em>crafted</em>.</strong></p> 
-					<p><strong>Here at Lambertson Industries, we have perfected the craft of creating the highest quality American-made stainless steel products, period.</strong></p>
+					<p><strong>Here at Lambertson, we have perfected the craft of creating the highest quality American-made stainless steel products, period.</strong></p>
 					<p><strong>We take pride in each and every detail to ensure that you're getting products that you can rely on and that will last.</strong></p>
 				</div>
 			</div>
@@ -2331,9 +2333,9 @@
 			</div>
 			<div class="c-history thick-border">
 				<h2 class="mt0">History</h2>
-				<p>Lambertson Industries was founded over 50 years ago by Theodore Lambertson. The company quickly became recognized as an industry leader through its vision and forward thinking. With a hands-on approach to customer needs and followed through with product quality, consistency, and service. Lambertson Industries grew to a multi-million dollars business recognized for 100% American made stainless steel products.</p>
-				<p>DaVinci Compass Inc. has acquired Lambertson Industries Inc on August 28, 2015.</p>
-				<p>At Lambertson, Inc. we do not compromise on the quality of our products. We manufacture to the highest standards, 100% built in America. We value our quality, service and competitive prices for the market place.</p>
+				<p>Lambertson was founded over 50 years ago by Theodore Lambertson. The company quickly became recognized as an industry leader through its vision and forward thinking. With a hands-on approach to customer needs and followed through with product quality, consistency, and service. Lambertson grew to a multi-million dollars business recognized for 100% American made stainless steel products.</p>
+				<p><a href="http://davincicompass.ca/" target="_blank" style="text-decoration:underline;">DaVinci Compass Inc.</a> has acquired Lambertson on August 28, 2015.</p>
+				<p>At Lambertson, we do not compromise on the quality of our products. We manufacture to the highest standards, 100% built in America. We value our quality, service and competitive prices for the market place.</p>
 			</div>
 			<div class="c-vision">
 				<h2>Vision</h2>
