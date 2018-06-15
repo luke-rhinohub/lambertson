@@ -1939,28 +1939,33 @@
 							</tr>
 							<tr>
 								<td>Hand Sink</td>
-								<td>HS-W-1410-2-F</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/HS-W-1410-2-F.PDF">DOWNLOAD</a></td>
+								<td>HS-1410-S-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/HS-1410-S-F.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1224-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1224-16.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1236-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1236-16.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1248-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1248-16.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1260-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1260-16.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1272-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1272-16.pdf">DOWNLOAD</a></td>
 							</tr>
 						</tbody>
 					</table>
@@ -1999,50 +2004,62 @@
 							<tr class="c-product-category--subtitle">
 								<td class="white">Description</td>
 								<td class="white">Product #</td>
+								<td class="white">Spec Sheet</td>
 							</tr>
 							<tr>
 								<td>1 Compartment Sink</td>
 								<td>QL-1-1620</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>1 Compartment Sink</td>
 								<td>QL-1-24</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24.pdf">DOWNLOAD</a></td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
 								<td>DTC-S-3036</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
 								<td>DTC-S-3048</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
 								<td>DTC-S-3060</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
 								<td>DTC-S-3072</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
 								<td>DTS-S-3036</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
 								<td>DTS-S-3048</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
 								<td>DTS-S-3060</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
 								<td>DTS-S-3072</td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Mop Sink</td>
 								<td>MS-1620-12-16</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/MS-1620-12-16.pdf">DOWNLOAD</a></td>
 							</tr>
 						</tbody>
 					</table>
@@ -2100,18 +2117,22 @@
 						<tr class="c-product-category--subtitle">
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
+							<td class="white">Spec Sheet</td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3048</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3048.pdf">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3060</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3060.pdf">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3072</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3072.pdf">DOWNLOAD</a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -2149,22 +2170,27 @@
 						<tr class="c-product-category--subtitle">
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
+							<td class="white">Spec Sheet</td>
 						</tr>
 						<tr>
 							<td>Prep Table</td>
 							<td>WTSQ-PT-3072</td>
+							<td></td>
 						</tr>
 						<tr>
 							<td>2 Compartment Sink</td>
 							<td>QL-2-1620-218-F</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-2-1620-218-F.pdf">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-1620-218-F</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-1620-218-F.pdf">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-24-224-F</td>
+							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-24-224-F.pdf">DOWNLOAD</a></td>
 						</tr>
 					</tbody>
 				</table>
