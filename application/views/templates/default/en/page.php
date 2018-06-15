@@ -2117,22 +2117,18 @@
 						<tr class="c-product-category--subtitle">
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
-							<td class="white">Spec Sheet</td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3048</td>
-							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3048.PDF" target="_blank">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3060</td>
-							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3060.PDF" target="_blank">DOWNLOAD</a></td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3072</td>
-							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WTSQ-BSU-3072.PDF" target="_blank">DOWNLOAD</a></td>
 						</tr>
 					</tbody>
 				</table>
