@@ -1936,36 +1936,43 @@
 								<td class="white">Description</td>
 								<td class="white">Product #</td>
 								<td class="white">Spec Sheet</td>
+								<td class="white">Single Item Price</td>
 							</tr>
 							<tr>
 								<td>Hand Sink</td>
 								<td>HS-1410-S-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/HS-1410-S-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$147</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1224-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1224-16.PDF" target="_blank">DOWNLOAD</a></td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1236-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1236-16.PDF" target="_blank">DOWNLOAD</a></td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1248-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1248-16.PDF" target="_blank">DOWNLOAD</a></td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1260-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1260-16.PDF" target="_blank">DOWNLOAD</a></td>
+								<td></td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1272-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1272-16.PDF" target="_blank">DOWNLOAD</a></td>
+								<td></td>
 							</tr>
 						</tbody>
 					</table>
@@ -2005,11 +2012,13 @@
 								<td class="white">Description</td>
 								<td class="white">Product #</td>
 								<td class="white">Spec Sheet</td>
+								<td class="white">Single Item Price</td>
 							</tr>
 							<tr>
 								<td>1 Compartment Sink</td>
 								<td>QL-1-1620</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$897</td>
 							</tr>
 							<tr>
 								<td>1 Compartment Sink</td>
