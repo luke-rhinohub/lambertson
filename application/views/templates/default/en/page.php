@@ -2176,26 +2176,31 @@
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
 							<td class="white">Spec Sheet</td>
+							<td class="white">Item Price</td>
 						</tr>
 						<tr>
 							<td>Prep Table</td>
 							<td>WTSQ-PT-3072</td>
+							<td></td>
 							<td></td>
 						</tr>
 						<tr>
 							<td>2 Compartment Sink</td>
 							<td>QL-2-1620-218-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-2-1620-218-F.pdf" target="_blank">DOWNLOAD</a></td>
+							<td>$1562.03</td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-1620-218-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-1620-218-F.pdf" target="_blank">DOWNLOAD</a></td>
+							<td>$2,114.81</td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-24-224-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-24-224-F.pdf" target="_blank">DOWNLOAD</a></td>
+							<td>$2,012.17</td>
 						</tr>
 					</tbody>
 				</table>
