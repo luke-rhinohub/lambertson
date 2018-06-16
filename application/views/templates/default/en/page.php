@@ -1921,7 +1921,7 @@
 
 	<!-- Product Categories -->
 	<?if($page["page_id"] == 35 || $page["page_id"] == 36 || $page["page_id"] == 37): ?>
-	<div class="rh-wrap c-categories">
+	<div class="rh-wrap large c-categories">
 
 		<!-- Category A Row -->
 		<div class="c-category-row" id="category-a">

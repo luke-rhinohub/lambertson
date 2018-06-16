@@ -87,6 +87,9 @@ div#map-canvas .store
 	margin:0 auto;
 	overflow: hidden;
 }
+.rh-wrap.large {
+	max-width:1300px;
+}
 h2
 {
 	text-transform:uppercase;
