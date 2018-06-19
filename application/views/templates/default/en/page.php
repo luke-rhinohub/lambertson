@@ -2002,7 +2002,7 @@
 								<td>Wall Shelf</td>
 								<td>WS-3D-1236-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1236-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td>143</td>
+								<td>$143</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
