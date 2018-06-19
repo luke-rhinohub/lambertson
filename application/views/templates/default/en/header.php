@@ -159,7 +159,7 @@ header("Content-type: text/html; charset=iso-8859-1");
 							</ul>
 						</li>
 						<li class="separator">|</li>
-						<li><a href="<?=base_url()?>en/page/restaurant-packages">Packages</a>
+						<li><a href="<?=base_url()?>en/page/restaurant-packages">Restaurant Packages</a>
 							<ul class="submenu">
 								<li><a href="<?=base_url()?>en/page/the-essentials-package">The Essentials Package</a></li>
 								<li class="separator"></li>
