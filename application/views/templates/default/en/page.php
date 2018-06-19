@@ -1911,8 +1911,8 @@
 			<div class="o-package--discounts">
 				<table class="c-package-incentive">
 					<tbody>
-						<tr>
-							<td class="total">TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
+						<tr class="total">
+							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
 							<td>$9,147</td>
 						</tr>
 						<tr class="actual">
