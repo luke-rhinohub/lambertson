@@ -2128,7 +2128,7 @@
 				<div class="col l4 m4 s12">
 					<div class="o-package-product">
 						<a href="<?=base_url()?>products/compartment-sinks/#one-compartment-sinks" target="_blank">
-							<img src="<?=base_url()?>images/packages-b-one-compartment-sink.jpg" alt="1 Compartment Sink">
+							<img src="<?=base_url()?>products/wp-content/uploads/2018/05/one-compartment-right-drainboard.jpg" alt="1 Compartment Sink">
 							<p class="o-package-product--title center mb0">1 Compartment Sink</p>
 						</a>
 					</div>
@@ -2267,13 +2267,13 @@
 				</div>
 				<div class="col l4 m4 s12 o-package-product">
 					<a href="<?=base_url()?>products/compartment-sinks/#two-compartment-sinks" target="_blank">
-						<img src="<?=base_url()?>images/contenu/product_categories/images/3db804daa27c86ff9531c40eeac045d5.png" alt="2 Compartment Sink">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/two-compartment-sink-left-right-drainboards.jpg" alt="2 Compartment Sink">
 						<p class="o-package-product--title center mb0">2 Compartment Sink</p>
 					</a>
 				</div>
 				<div class="col l4 m4 s12 o-package-product">
 					<a href="<?=base_url()?>products/compartment-sinks/#three-compartment-sinks" target="_blank">
-						<img src="<?=base_url()?>images/packages-d-three-compartment-sink.jpg" alt="3 Compartment Sink">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/three-compartment-sink-left-right-drainboards.jpg" alt="3 Compartment Sink">
 						<p class="o-package-product--title center mb0">3 Compartment Sink</p>
 					</a>
 				</div>
