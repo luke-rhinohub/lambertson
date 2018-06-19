@@ -1872,6 +1872,22 @@
 					<li>Category C: 1 Item</li>
 					<li>Category D: 1 Item</li>
 				</ul>
+				<table class="c-package-incentive">
+					<tbody>
+						<tr>
+							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
+							<td>$6,450</td>
+						</tr>
+						<tr>
+							<td>ESSENTIALS PACKAGE PRICE</td>
+							<td>$5,750</td>
+						</tr>
+						<tr>
+							<td>SAVINGS</td>
+							<td>$700</td>
+						</tr>
+					</tbody>
+				</table>
 			</p>
 			<div class="o-package--discounts">
 						
@@ -1895,6 +1911,22 @@
 					<li>Category D: 1 Item</li>
 					<li>Category E: 1 Item</li>
 				</ul>
+				<table class="c-package-incentive">
+					<tbody>
+						<tr>
+							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
+							<td>$9,147</td>
+						</tr>
+						<tr>
+							<td>ESSENTIALS PACKAGE PRICE</td>
+							<td>$7,950</td>
+						</tr>
+						<tr>
+							<td>SAVINGS</td>
+							<td>$1,197</td>
+						</tr>
+					</tbody>
+				</table>
 			</p>
 		</div>
 		<div class="col l4 m12"><p></p></div>
@@ -1915,6 +1947,22 @@
 					<li>Category D: 2 Items</li>
 					<li>Category E: 2 Items</li>
 				</ul>
+				<table class="c-package-incentive">
+					<tbody>
+						<tr>
+							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
+							<td>$13,678</td>
+						</tr>
+						<tr>
+							<td>ESSENTIALS PACKAGE PRICE</td>
+							<td>$11,950</td>
+						</tr>
+						<tr>
+							<td>SAVINGS</td>
+							<td>$1,728</td>
+						</tr>
+					</tbody>
+				</table>
 			</p>
 		</div>
 		<div class="col l4 m12"><p></p></div>
