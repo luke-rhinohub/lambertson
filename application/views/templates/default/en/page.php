@@ -1860,8 +1860,7 @@
 
 	<?elseif($page["page_id"] == 35): // The Essentials Package ?>
 	<div class="rh-wrap c-packages">
-		<div class="col l4 m12"><p></p></div>
-		<div class="col l4 m12 center">
+		<div class="col l6 m12 center">
 			<h3 class="o-package--title">The Essentials Package</h3>
 			<p class="maroon o-package--price">$5,750</p>
 			<span class="o-package--divider"></span>
@@ -1872,34 +1871,31 @@
 					<li>Category C: 1 Item</li>
 					<li>Category D: 1 Item</li>
 				</ul>
+			</p>
+			<div class="o-package--discounts">
 				<table class="c-package-incentive">
 					<tbody>
-						<tr>
+						<tr class="total">
 							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
 							<td>$6,450</td>
 						</tr>
-						<tr>
+						<tr class="actual">
 							<td>ESSENTIALS PACKAGE PRICE</td>
 							<td>$5,750</td>
 						</tr>
-						<tr>
+						<tr class="savings">
 							<td>SAVINGS</td>
 							<td>$700</td>
 						</tr>
 					</tbody>
-				</table>
-			</p>
-			<div class="o-package--discounts">
-						
+				</table>	
 			</div>
 		</div>
-		<div class="col l4 m12"><p></p></div>
 	</div>
 
 	<?elseif($page["page_id"] == 36): // The Perfect Package ?>
 	<div class="rh-wrap c-packages">
-		<div class="col l4 m12"><p></p></div>
-		<div class="col l4 m12 center">
+		<div class="col l6 m12 center">
 			<h3 class="o-package--title">The Perfect Package</h3>
 			<p class="maroon o-package--price">$7,950</p>
 			<span class="o-package--divider"></span>
@@ -1911,31 +1907,31 @@
 					<li>Category D: 1 Item</li>
 					<li>Category E: 1 Item</li>
 				</ul>
+			</p>
+			<div class="o-package--discounts">
 				<table class="c-package-incentive">
 					<tbody>
 						<tr>
-							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
+							<td class="total">TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
 							<td>$9,147</td>
 						</tr>
-						<tr>
+						<tr class="actual">
 							<td>ESSENTIALS PACKAGE PRICE</td>
 							<td>$7,950</td>
 						</tr>
-						<tr>
+						<tr class="savings">
 							<td>SAVINGS</td>
 							<td>$1,197</td>
 						</tr>
 					</tbody>
 				</table>
-			</p>
+			</div>
 		</div>
-		<div class="col l4 m12"><p></p></div>
 	</div>
 
 	<?elseif($page["page_id"] == 37): // The Master Package ?>
 	<div class="rh-wrap c-packages">
-		<div class="col l4 m12"><p></p></div>
-		<div class="col l4 m12 center">
+		<div class="col l6 m12 center">
 			<h3 class="o-package--title">The Master Package</h3>
 			<p class="maroon o-package--price">$11,950</p>
 			<span class="o-package--divider"></span>
@@ -1947,25 +1943,26 @@
 					<li>Category D: 2 Items</li>
 					<li>Category E: 2 Items</li>
 				</ul>
+			</p>
+			<div class="o-package--discounts">
 				<table class="c-package-incentive">
 					<tbody>
-						<tr>
+						<tr class="total">
 							<td>TOTAL COST WHEN BOUGHT INDIVIDUALLY</td>
 							<td>$13,678</td>
 						</tr>
-						<tr>
+						<tr class="actual">
 							<td>ESSENTIALS PACKAGE PRICE</td>
 							<td>$11,950</td>
 						</tr>
-						<tr>
+						<tr class="savings">
 							<td>SAVINGS</td>
 							<td>$1,728</td>
 						</tr>
 					</tbody>
 				</table>
-			</p>
+			</div>
 		</div>
-		<div class="col l4 m12"><p></p></div>
 	</div>
 
 	<?endif?>
