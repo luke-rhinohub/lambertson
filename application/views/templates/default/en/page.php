@@ -1985,7 +1985,7 @@
 			<div class="col l4 m6 s12">
 				<div class="o-package-product">
 					<a href="<?=base_url()?>products/hand-sinks" target="_blank">
-						<img src="<?=base_url()?>images/packages-a-hand-sink.jpg" alt="Hand Sink">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/hand-sink.jpg" alt="Hand Sink">
 						<p class="o-package-product--title center mb0">Hand Sink</p>
 					</a>
 				</div>
@@ -1993,7 +1993,7 @@
 			<div class="col l4 m6 s12">
 				<div class="o-package-product">
 					<a href="<?=base_url()?>products/wall-shelves" target="_blank">
-						<img src="<?=base_url()?>images/packages-a-wall-shelf.jpg" alt="Wall Shelf">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/wall-shelf.jpg" alt="Wall Shelf">
 						<p class="o-package-product--title center mb0">Wall Shelf</p>
 					</a>
 				</div>
@@ -2144,7 +2144,7 @@
 				<div class="col l4 m4 s12">
 					<div class="o-package-product">
 						<a href="<?=base_url()?>products/mop-sinks" target="_blank">
-							<img src="<?=base_url()?>images/packages-b-mop-sink.jpg" alt="Mop Sink">
+							<img src="<?=base_url()?>products/wp-content/uploads/2018/05/mop-sink.jpg" alt="Mop Sink">
 							<p class="o-package-product--title center mb0">Mop Sink</p>
 						</a>
 					</div>
@@ -2198,7 +2198,7 @@
 			<div class="col l8 m12 s12">
 				<div class="o-package-product">
 					<a href="<?=base_url()?>products/work-tables" target="_blank">
-						<img src="<?=base_url()?>images/packages-c-work-table.jpg" alt="Work Table">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/standard-table.jpg" alt="Work Table">
 						<p class="o-package-product--title center mb0">Work Table</p>
 					</a>
 				</div>
