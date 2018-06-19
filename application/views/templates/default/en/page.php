@@ -1873,6 +1873,9 @@
 					<li>Category D: 1 Item</li>
 				</ul>
 			</p>
+			<div class="o-package--discounts">
+						
+			</div>
 		</div>
 		<div class="col l4 m12"><p></p></div>
 	</div>
@@ -2015,97 +2018,106 @@
 								<td class="white">Single Item Price</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>No Dainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-1620</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$897</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Left Dainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-1620-L18-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620-L18-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$897</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Right Dainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-1620-R18-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620-R18-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$897</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>No Drainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$870</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Left Drainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24-L18-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-L18-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$870</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Right Drainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24-R18-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-R18-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$870</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Left Drainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24-L24-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-L24-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$870</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink<br/>Right Drainboard</td>
+								<td>1 Compartment Sink</td>
 								<td>QL-1-24-R24-F</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-R24-F.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$870</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Clean</td>
+								<td>Clean Dish Table</td>
 								<td>DTC-S-3036</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3036.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$743</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Clean</td>
+								<td>Clean Dish Table</td>
 								<td>DTC-S-3048</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3048.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$777</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Clean</td>
+								<td>Clean Dish Table</td>
 								<td>DTC-S-3060</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3060.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$812</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Clean</td>
+								<td>Clean Dish Table</td>
 								<td>DTC-S-3072</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3072.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$846</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Soiled</td>
+								<td>Soiled Dish Table</td>
 								<td>DTS-S-3036</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3036.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$1,046</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Soiled</td>
+								<td>Soiled Dish Table</td>
 								<td>DTS-S-3048</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3048.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$1,080</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Soiled</td>
+								<td>Soiled Dish Table</td>
 								<td>DTS-S-3060</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3060.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$1,114</td>
 							</tr>
 							<tr>
-								<td>Dish Table<br/>Soiled</td>
+								<td>Soiled Dish Table</td>
 								<td>DTS-S-3072</td>
-								<td></td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3072.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$1,149</td>
 							</tr>
 							<tr>
 								<td>Mop Sink</td>
 								<td>MS-1620-12-16</td>
 								<td></td>
+								<td>$1,032</td>
 							</tr>
 						</tbody>
 					</table>
@@ -2163,18 +2175,22 @@
 						<tr class="c-product-category--subtitle">
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
+							<td class="white">Price</td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3048</td>
+							<td>$753</td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3060</td>
+							<td>$828</td>
 						</tr>
 						<tr>
 							<td>Work Table</td>
 							<td>WTSQ-BSU-3072</td>
+							<td>$911</td>
 						</tr>
 					</tbody>
 				</table>
@@ -2219,25 +2235,25 @@
 							<td>Prep Table</td>
 							<td>WTSQ-PT-3072</td>
 							<td></td>
-							<td></td>
+							<td>$1,833</td>
 						</tr>
 						<tr>
 							<td>2 Compartment Sink</td>
 							<td>QL-2-1620-218-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-2-1620-218-F.pdf" target="_blank">DOWNLOAD</a></td>
-							<td>$1562.03</td>
+							<td>$1,562</td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-1620-218-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-1620-218-F.pdf" target="_blank">DOWNLOAD</a></td>
-							<td>$2,114.81</td>
+							<td>$2,115</td>
 						</tr>
 						<tr>
 							<td>3 Compartment Sink</td>
 							<td>QL-3-24-224-F</td>
 							<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-3-24-224-F.pdf" target="_blank">DOWNLOAD</a></td>
-							<td>$2,012.17</td>
+							<td>$2,012</td>
 						</tr>
 					</tbody>
 				</table>
@@ -2288,18 +2304,22 @@
 						<tr class="c-product-category--subtitle">
 							<td class="white">Description</td>
 							<td class="white">Product #</td>
+							<td class="white">Price</td>
 						</tr>
 						<tr>
 							<td>Cabinet</td>
 							<td>CAB-BS-3048</td>
+							<td>$1,666</td>
 						</tr>
 						<tr>
 							<td>Cabinet</td>
 							<td>CAB-BS-3060</td>
+							<td>$1,726</td>
 						</tr>
 						<tr>
 							<td>Cabinet</td>
 							<td>CAB-BS-3072</td>
+							<td>$1,786</td>
 						</tr>
 					</tbody>
 				</table>
