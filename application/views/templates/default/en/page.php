@@ -2261,7 +2261,7 @@
 			<div class="col l8 m12 s12">
 				<div class="col l4 m4 s12 o-package-product">
 					<a href="<?=base_url()?>products/prep-tables" target="_blank">
-						<img src="<?=base_url()?>images/packages-e-prep-table.jpg" alt="Prep Table">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/prep-table.jpg" alt="Prep Table">
 						<p class="o-package-product--title center mb0">Prep Table</p>
 					</a>
 				</div>
@@ -2327,7 +2327,7 @@
 			<div class="col l8 m12 s12">
 				<div class="o-package-product">
 					<a href="<?=base_url()?>products/cabinets" target="_blank">
-						<img src="<?=base_url()?>images/packages-e-cabinet.jpg" alt="Cabinet">
+						<img src="<?=base_url()?>products/wp-content/uploads/2018/05/cabinet.jpg" alt="Cabinet">
 						<p class="o-package-product--title center mb0">Cabinet</p>
 					</a>
 				</div>
