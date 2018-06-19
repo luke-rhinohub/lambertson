@@ -2948,6 +2948,19 @@ table.c-product-category--table {
 	margin:0 auto;
 	display:block;
 }
+.c-package-incentive {
+	width:100%;
+	color:#fff;
+	font-weight:bold;
+	font-size:20px;
+}
+.c-package-incentive tr {
+	background:grey;
+}
+.c-package-incentive .savings {
+	color:#fff;
+	background:#8a1920;
+}
 
 /** Footer **/
 #footer {
