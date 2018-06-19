@@ -16,7 +16,7 @@
 					</div>
 					<div class="col l4 m4 s12">
 						<h3 class="gray">THE LAMBERTSON DIFFERENCE</h3>
-						<p class="white">There is a clear difference between products that are simply built and those that are crafted. Here at Lambertson Industries, we have perfected the craft of creating the highest quality American-made stainless steel products, period. We take pride in each and every detail to ensure that you're getting products that you can rely on and that will last.</p>
+						<p class="white">There is a clear difference between products that are simply built and those that are crafted. Here at Lambertson, we have perfected the craft of creating the highest quality American-made stainless steel products, period. We take pride in each and every detail to ensure that you're getting products that you can rely on and that will last.</p>
 
 						<!-- <ul class="footer-list white">
 							<li><a href="#">FAQ</a></li>

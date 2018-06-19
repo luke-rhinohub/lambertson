@@ -159,13 +159,15 @@ header("Content-type: text/html; charset=iso-8859-1");
 							</ul>
 						</li>
 						<li class="separator">|</li>
-						<li><a href="<?=base_url()?>en/page/restaurant-packages">Restaurant Packages</a>
+						<li><a href="<?=base_url()?>en/page/restaurant-packages">Packages</a>
 							<ul class="submenu">
 								<li><a href="<?=base_url()?>en/page/the-essentials-package">The Essentials Package</a></li>
 								<li class="separator"></li>
 								<li><a href="<?=base_url()?>en/page/the-perfect-package">The Perfect Package</a></li>
 								<li class="separator"></li>
 								<li><a href="<?=base_url()?>en/page/the-master-package">The Master Package</a></li>
+								<li class="separator"></li>
+								<li><a href="<?=base_url()?>products/hood-packages">Hood Packages</a></li>
 							</ul>
 						</li>
 						<li class="separator">|</li>
@@ -280,6 +282,7 @@ header("Content-type: text/html; charset=iso-8859-1");
 								<li><a href="<?=base_url()?>en/page/the-essentials-package">The Essentials Package</a></li>
 								<li><a href="<?=base_url()?>en/page/the-perfect-package">The Perfect Package</a></li>
 								<li><a href="<?=base_url()?>en/page/the-master-package">The Master Package</a></li>
+								<li><a href="<?=base_url()?>products/hood-packages">Hood Packages</a></li>
 							</ul>
 						</li>
 						<li><a href="<?=base_url()?>en/page/contact-us">Contact us</a></li>
