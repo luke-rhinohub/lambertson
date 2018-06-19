@@ -2067,50 +2067,74 @@
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
-								<td>DTC-S-3036</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3036.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTC-S-3036-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3036-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$743</td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
-								<td>DTC-S-3048</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3048.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTC-S-3036-RL</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3036-RL.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$743</td>
+							</tr>
+							<tr>
+								<td>Clean Dish Table</td>
+								<td>DTC-S-3048-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3048-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$777</td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
-								<td>DTC-S-3060</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3060.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTC-S-3048-RL</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3048-RL.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$777</td>
+							</tr>
+							<tr>
+								<td>Clean Dish Table</td>
+								<td>DTC-S-3060-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3060-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$812</td>
 							</tr>
 							<tr>
 								<td>Clean Dish Table</td>
-								<td>DTC-S-3072</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3072.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTC-S-3060-RL</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3060-RL.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$812</td>
+							</tr>
+							<tr>
+								<td>Clean Dish Table</td>
+								<td>DTC-S-3072-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3072-LR.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$846</td>
+							</tr>
+							<tr>
+								<td>Clean Dish Table</td>
+								<td>DTC-S-3072-RL</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTC-S-3072-RL.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$846</td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
-								<td>DTS-S-3036</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3036.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTS-S-3036-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3036-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$1,046</td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
-								<td>DTS-S-3048</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3048.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTS-S-3048-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3048-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$1,080</td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
-								<td>DTS-S-3060</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3060.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTS-S-3060-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3060-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$1,114</td>
 							</tr>
 							<tr>
 								<td>Soiled Dish Table</td>
-								<td>DTS-S-3072</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3072.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>DTS-S-3072-LR</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/DTS-S-3072-LR.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$1,149</td>
 							</tr>
 							<tr>
