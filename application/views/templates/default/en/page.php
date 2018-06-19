@@ -1948,31 +1948,31 @@
 								<td>Wall Shelf</td>
 								<td>WS-3D-1224-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1224-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td></td>
+								<td>$133</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1236-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1236-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td></td>
+								<td>143</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1248-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1248-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td></td>
+								<td>$153</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1260-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1260-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td></td>
+								<td>$163</td>
 							</tr>
 							<tr>
 								<td>Wall Shelf</td>
 								<td>WS-3D-1272-16</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/WS-3D-1272-16.PDF" target="_blank">DOWNLOAD</a></td>
-								<td></td>
+								<td>$172</td>
 							</tr>
 						</tbody>
 					</table>
@@ -2015,53 +2015,90 @@
 								<td class="white">Single Item Price</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink</td>
+								<td>1 Compartment Sink<br/>No Dainboard</td>
 								<td>QL-1-1620</td>
 								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620.pdf" target="_blank">DOWNLOAD</a></td>
 								<td>$897</td>
 							</tr>
 							<tr>
-								<td>1 Compartment Sink</td>
-								<td>QL-1-24</td>
-								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>1 Compartment Sink<br/>Left Dainboard</td>
+								<td>QL-1-1620-L18-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620-L18-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$897</td>
 							</tr>
 							<tr>
-								<td>Clean Dish Table</td>
+								<td>1 Compartment Sink<br/>Right Dainboard</td>
+								<td>QL-1-1620-R18-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-1620-R18-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$897</td>
+							</tr>
+							<tr>
+								<td>1 Compartment Sink<br/>No Drainboard</td>
+								<td>QL-1-24</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$870</td>
+							</tr>
+							<tr>
+								<td>1 Compartment Sink<br/>Left Drainboard</td>
+								<td>QL-1-24-L18-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-L18-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$870</td>
+							</tr>
+							<tr>
+								<td>1 Compartment Sink<br/>Right Drainboard</td>
+								<td>QL-1-24-R18-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-R18-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$870</td>
+							</tr>
+							<tr>
+								<td>1 Compartment Sink<br/>Left Drainboard</td>
+								<td>QL-1-24-L24-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-L24-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$870</td>
+							</tr>
+							<tr>
+								<td>1 Compartment Sink<br/>Right Drainboard</td>
+								<td>QL-1-24-R24-F</td>
+								<td><a href="<?=base_url()?>products/wp-content/products/spec-sheets/QL-1-24-R24-F.pdf" target="_blank">DOWNLOAD</a></td>
+								<td>$870</td>
+							</tr>
+							<tr>
+								<td>Dish Table<br/>Clean</td>
 								<td>DTC-S-3036</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Clean Dish Table</td>
+								<td>Dish Table<br/>Clean</td>
 								<td>DTC-S-3048</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Clean Dish Table</td>
+								<td>Dish Table<br/>Clean</td>
 								<td>DTC-S-3060</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Clean Dish Table</td>
+								<td>Dish Table<br/>Clean</td>
 								<td>DTC-S-3072</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Soiled Dish Table</td>
+								<td>Dish Table<br/>Soiled</td>
 								<td>DTS-S-3036</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Soiled Dish Table</td>
+								<td>Dish Table<br/>Soiled</td>
 								<td>DTS-S-3048</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Soiled Dish Table</td>
+								<td>Dish Table<br/>Soiled</td>
 								<td>DTS-S-3060</td>
 								<td></td>
 							</tr>
 							<tr>
-								<td>Soiled Dish Table</td>
+								<td>Dish Table<br/>Soiled</td>
 								<td>DTS-S-3072</td>
 								<td></td>
 							</tr>
